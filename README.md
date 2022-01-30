@@ -14,7 +14,7 @@ Jdownloader account needed [click here to create or register](https://my.jdownlo
 * Star my repository
 * Create a [Heroku](https://dashboard.heroku.com/login) Free account
 * Log in to Heroku in any browser
-* Click on the Rapid deployment button [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://developeranaz.github.io/Jdownloader-2-Rclone-Heroku/random.html)
+* Click on the Rapid deployment button [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/walternewtz/Jdownloader-2-Rclone-Heroku/)
 
 ### Step 2 
 i) `conf_in_url` section -
